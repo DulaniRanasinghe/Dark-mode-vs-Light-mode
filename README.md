@@ -1,1 +1,1 @@
-https://github.com/DulaniRanasinghe/Dark-mode-vs-Light-mode.git
+https://dulaniranasinghe.github.io/Dark-mode-vs-Light-mode/
